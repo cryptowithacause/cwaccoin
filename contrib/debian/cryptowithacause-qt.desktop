@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=cryptowithacause Core
+Comment=cryptowithacause P2P Cryptocurrency
+Comment[fr]=cryptowithacause, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=cryptowithacause, eşten eşe kriptografik sanal para birimi
+Exec=cryptowithacause-qt %u
+Terminal=false
+Type=Application
+Icon=cryptowithacause128
+MimeType=x-scheme-handler/cryptowithacause;
+Categories=Office;Finance;
+StartupWMClass=cryptowithacause-qt

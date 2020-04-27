@@ -1,0 +1,3 @@
+usr/local/bin/cryptowithacaused usr/bin
+usr/local/bin/cryptowithacause-cli usr/bin
+debian/examples/cryptowithacause.conf etc/cryptowithacause

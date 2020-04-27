@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/cryptowithacause_bg.qm</file>
+        <file alias="ca">locale/cryptowithacause_ca.qm</file>
+        <file alias="cs">locale/cryptowithacause_cs.qm</file>
+        <file alias="da">locale/cryptowithacause_da.qm</file>
+        <file alias="de">locale/cryptowithacause_de.qm</file>
+        <file alias="en">locale/cryptowithacause_en.qm</file>
+        <file alias="en_GB">locale/cryptowithacause_en_GB.qm</file>
+        <file alias="en_US">locale/cryptowithacause_en_US.qm</file>
+        <file alias="eo">locale/cryptowithacause_eo.qm</file>
+        <file alias="es">locale/cryptowithacause_es.qm</file>
+        <file alias="es_ES">locale/cryptowithacause_es_ES.qm</file>
+        <file alias="fi">locale/cryptowithacause_fi.qm</file>
+        <file alias="fr_FR">locale/cryptowithacause_fr_FR.qm</file>
+        <file alias="hi_IN">locale/cryptowithacause_hi_IN.qm</file>
+        <file alias="hr">locale/cryptowithacause_hr.qm</file>
+        <file alias="hr_HR">locale/cryptowithacause_hr_HR.qm</file>
+        <file alias="it">locale/cryptowithacause_it.qm</file>
+        <file alias="ja">locale/cryptowithacause_ja.qm</file>
+        <file alias="ko_KR">locale/cryptowithacause_ko_KR.qm</file>
+        <file alias="lt_LT">locale/cryptowithacause_lt_LT.qm</file>
+        <file alias="nl">locale/cryptowithacause_nl.qm</file>
+        <file alias="pl">locale/cryptowithacause_pl.qm</file>
+        <file alias="pt">locale/cryptowithacause_pt.qm</file>
+        <file alias="pt_BR">locale/cryptowithacause_pt_BR.qm</file>
+        <file alias="ro_RO">locale/cryptowithacause_ro_RO.qm</file>
+        <file alias="ru">locale/cryptowithacause_ru.qm</file>
+        <file alias="sk">locale/cryptowithacause_sk.qm</file>
+        <file alias="sv">locale/cryptowithacause_sv.qm</file>
+        <file alias="tr">locale/cryptowithacause_tr.qm</file>
+        <file alias="uk">locale/cryptowithacause_uk.qm</file>
+        <file alias="vi">locale/cryptowithacause_vi.qm</file>
+        <file alias="zh_CN">locale/cryptowithacause_zh_CN.qm</file>
+        <file alias="zh_TW">locale/cryptowithacause_zh_TW.qm</file>
+    </qresource>
+</RCC>

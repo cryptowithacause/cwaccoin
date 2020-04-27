@@ -1,0 +1,6 @@
+usr/local/bin/cryptowithacause-qt usr/bin
+share/pixmaps/cryptowithacause32.xpm usr/share/pixmaps
+share/pixmaps/cryptowithacause16.xpm usr/share/pixmaps
+share/pixmaps/cryptowithacause128.png usr/share/pixmaps
+debian/cryptowithacause-qt.desktop usr/share/applications
+debian/cryptowithacause-qt.protocol usr/share/kde4/services/
